@@ -18,7 +18,7 @@ struct ContentView: View {
             Text("You Are Awsome!")
                 .font(.largeTitle)
                 .fontWeight(.heavy)
-                .foregroundStyle(.red)
+                .foregroundStyle(.orange)
                 
         }
         .padding()
